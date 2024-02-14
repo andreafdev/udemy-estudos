@@ -1,0 +1,27 @@
+#caixa {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    padding: 8px;
+    background: #7bdac2;
+}
+
+#caixa h1 {
+    color: white;
+    text-shadow: 4px 2px 2px rgb( 0, 0,0,0.7);  
+    /* adicionar um terceiro valor, dá um acabamento de blur no texto */
+}
+
+#caixa2 {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    padding: 8px;
+    background: #da7b2d;
+    box-shadow: 10px 10px 15px  rgb(71, 70, 70) ;
+}
+
+#caixa2 h1 {
+    color: black;
+    text-shadow: 3px 1px 2px rgba(0, 0, 0, 0.6);
+}
