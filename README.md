@@ -5,8 +5,6 @@
 # Conteúdos presentes: 
 📚 HTML5 <br>
 📚 CSS3 <br>
-📚 BOOTSTRAP  <br>
-📚 DESIGN RESPONSIVO <br>
 📚 JAVASCRIPT <br> 
 
 
